@@ -1,0 +1,19 @@
+{
+  "name": "blogfullstackserverfront",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi there, I'm Sergey!\r             <img src=\"https://github.com/blackcater/blackcater/raw/main/images/Hi.gif\" height=\"32\" alt=\"Hi\" />\r         </h1>\r <h3 align=\"center\">This is an application for my portfolio</h3> \r <h3 align=\"center\">👀 What is this and what is it for?</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeyif1/BlogFullStackServerFront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeyif1/BlogFullStackServerFront/issues"
+  },
+  "homepage": "https://github.com/sergeyif1/BlogFullStackServerFront#readme"
+}
