@@ -1,5 +1,6 @@
 # dependencies
 FullStackNodeJs_Server/node_modules
+FullStackReactJs_Front/node_modules
 
 # testing
 /coverage
