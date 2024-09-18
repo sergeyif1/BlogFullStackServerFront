@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, nice to meet you - I'm Sergey!<img src="./imges/Hi.gif" height="32" alt="Hi" />
+<h1 align="center">Hi there, nice to meet you - I'm Sergey!<img src="../imges/Hi.gif" height="32" alt="Hi" />
         </h1>
 
 <h3 align="center">This is an application for my portfolio</h3>
@@ -41,7 +41,7 @@
             <p>Server Ok!</p>
             <p>and</p>
             <p>DB error! MongoServerError:</p>
-            <p><img src="./imges/banner.gif" height="25" alt="Go" />***(To fix this error, you need to go to the 'index.js' file in the root directory. In the phrase 'mongodb+srv://11111111:22222222@33333333.w61qh.mongodb.net/', replace '11111111' with the username registered on the service, '22222222' with the database password, and '33333333' with the cluster number, like 'cluster0').</p>
+            <p><img src="../imges/banner.gif" height="25" alt="Go" />***(To fix this error, you need to go to the 'index.js' file in the root directory. In the phrase 'mongodb+srv://11111111:22222222@33333333.w61qh.mongodb.net/', replace '11111111' with the username registered on the service, '22222222' with the database password, and '33333333' with the cluster number, like 'cluster0').</p>
             <p>After this, you will get the message:</p>
             <p>Server Ok!</p>
             <p>DB Ok!</p>
