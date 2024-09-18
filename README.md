@@ -77,7 +77,7 @@
 <li>Implemented article editing</li>
 </ul>
 
-<h4><img src="./imges/banner.gif" height="16" alt="Go" />**Note: The app works only if the server and database connection are available!</h4>
+<h4><img src="./imges/banner.gif" height="25" alt="Go" />**Note: The app works only if the server and database connection are available!</h4>
 
 <h3 align="center">👀 <u>Developed Backend (The folder called FullStackNodeJs_Server with the project):</u></h3>
 <ul></ul>
@@ -112,7 +112,7 @@
 <li>Set up image uploads to the server with Multer</li>
 <li>Returning static files (uploaded images)</li>
 </ul>
-<h4><img src="./imges/banner.gif" height="16" alt="Go" />**Note: The server must be started before the app runs.</h4>
+<h4><img src="./imges/banner.gif" height="25" alt="Go" />**Note: The server must be started before the app runs.</h4>
 
 <br>
 <h5 font-family: Arial, Helvetica, sans-serif font-weight: bold><u>
