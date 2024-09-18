@@ -1,5 +1,5 @@
 {
-  "name": "react-blog",
+  "name": "fullstacknodejs_front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -49,5 +49,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "<h1 align=\"center\">Hi there, nice to meet you - I'm Sergey!\r <img src=\"../imges/Hi.gif\" height=\"32\" alt=\"Hi\" />\r         </h1>",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "sergeyif1@gmail.com",
+  "license": "ISC",
+  "keywords": []
 }
