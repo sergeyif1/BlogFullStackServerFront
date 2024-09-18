@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sergey!
-            <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi" />
+            <img src="./imges/Hi.gif" height="32" alt="Hi" />
         </h1>
 <h3 align="center">This is an application for my portfolio</h3> 
 <h3 align="center">👀 What is this and what is it for?</h3>
@@ -77,7 +77,7 @@
 <li>Implemented article editing</li>
 </ul>
 
-<h4><img src="" height="16" alt="Go" />**Note: The app works only if the server and database connection are available!</h4>
+<h4><img src="./imges/banner.gif" height="16" alt="Go" />**Note: The app works only if the server and database connection are available!</h4>
 
 <h3 align="center">👀 <u>Developed Backend (The folder called FullStackNodeJs_Server with the project):</u></h3>
 <ul></ul>
@@ -112,7 +112,7 @@
 <li>Set up image uploads to the server with Multer</li>
 <li>Returning static files (uploaded images)</li>
 </ul>
-<h4><img src="" height="16" alt="Go" />**Note: The server must be started before the app runs.</h4>
+<h4><img src="./imges/banner.gif" height="16" alt="Go" />**Note: The server must be started before the app runs.</h4>
 
 <br>
 <h5 font-family: Arial, Helvetica, sans-serif font-weight: bold><u>
