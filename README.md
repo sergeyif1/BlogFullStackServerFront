@@ -115,8 +115,8 @@
 <h4><img src="./imges/banner.gif" height="16" alt="Go" />**Note: The server must be started before the app runs.</h4>
 
 <br>
-<h4><b><u>
+<h5 font-family: Arial, Helvetica, sans-serif font-weight: bold><u>
 ***Detailed installation, operation, and deployment instructions for both the backend and frontend, as well as the applications themselves and the source code of specific solutions, can be requested via email at sergeyif1@gmail.com.
 
 Best regards!
-</u></b></h4>
+</u></h4>
